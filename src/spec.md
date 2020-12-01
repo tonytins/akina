@@ -36,8 +36,3 @@ Akina's *default* word order has modifiers and verbs that follow most SOV conven
 | Main Verb          | Modal            |
 | Negates            | Future Aux.      |
 | Question Aux.      | Future Aux.      |
-
-This is by no means mandatory. As the above it shows, SVO or free word order applies too. In free word order, T+/ja/-V-(AUX)-F-AUX means Topic + "ya" + Verb - (Auxiliary) - Focus - Auxiliary.
-
-- "ya" serves as the topic marker.
-- "n" is added as a suffix on the noun in free word order.
