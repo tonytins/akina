@@ -2,9 +2,9 @@
 
 ## Letters
 
-Towa uses only 14 letters.
+Akina uses only 14 letters.
 
-*a á i o ó u h d t k m n s l w*
+*a á i o ó u f g h k l m n p r s t c v j z b d*
 
 ## Vowels
 
@@ -19,6 +19,6 @@ Towa uses only 14 letters.
 
 ## Constants
 
-Towa has 10 constants. The letters are *h d t k m n s l w* and sound exactly as in English.
+Akina has 10 constants. The letters are *h b d t k m n s l w* and sound exactly as in English.
 
 ## Practice

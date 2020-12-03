@@ -4,10 +4,10 @@
 
 | Person | Singular | Plural    |
 | ------ | -------- | --------- |
-| 1st    | *Mi* I   | *Won* We  |
-| 2nd    | *Ta* You | *Du* You  |
-| 3rd    | *Ko* It  | *il* They |
+| 1st    | *ta* I   | *Won* We  |
+| 2nd    | *lu* You | *ot* You  |
+| 3rd    | *il* It  | *os* They |
 
 ## Examples
 
-- *mi entō.* I don't know.
+- *ta musá.* I don't know.

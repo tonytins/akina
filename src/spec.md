@@ -2,7 +2,7 @@
 
 ## Letters
 
-*a á i o ó u h d t k m n s l w*
+*a á i o ó u f g h k l m n p r s t c v j z b d*
 
 ## Syllable structure
 
