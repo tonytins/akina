@@ -2,14 +2,28 @@
 
 ## Letters
 
-*a á i o ó u f g h k l m n p r s t c v j z b d*
+*a á i o ó u f g h k l m n p r t c v j z b d*
+
+## Phonology
+
+| Short     | Front | Central | Back |
+| --------- | ----- | ------- | ---- |
+| Close     | ɪ     |         | ʊ    |
+| Close-mid |       |         | o    |
+| Open-mid  |       | ɵ       |      |
+| Open      |       |         | a    |
+
+| Long      | Front | Central | Back |
+| --------- | ----- | ------- | ---- |
+| Close-mid |       |         | oː   |
+| Open      |       | a       | ɑː   |
 
 ## Syllable structure
 
-| English | Pattern | Examples |
-| ------- | ------- | -------- |
-|         | CVC     |          |
-| hotel   | (C)VCVː | hotá     |
+| English | Pattern | Akina |
+| ------- | ------- | ----- |
+|         | CVC     |       |
+| hotel   | (C)VCVː | hotá  |
 
 ## Word order
 
