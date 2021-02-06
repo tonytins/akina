@@ -2,7 +2,7 @@
 
 ## Compound Words
 
-Akina allows for combining or more words. For example, two CVCV and CVCVCV words, for example, can combined to mean something  
+Akina allows for compound words. For example, two CVCV and CVCVCV or VCVCV words, with the appended word dropping it's first vowel, can be combined to mean something in relation to the root word.
 
 ## Passive
 
