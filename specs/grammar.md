@@ -1,5 +1,9 @@
 # Grammar
 
+## Compound Words
+
+Akina allows for combining or more words. For example, two CVCV and CVCVCV words, for example, can combined to mean something  
+
 ## Passive
 
 | Person | Singular | Plural    |
