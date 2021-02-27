@@ -15,18 +15,18 @@ Akina has four vowels. *a e o u*
 
 Akina has no concept of constants, per-se. Instead, the equivalent is moras, a unit of sound. Akina has 36 moras in total.
 
- | a   | e   | o   | u   |
- | --- | --- | --- | --- |
- | a   | e   | o   | u   |
- | da  | de  | do  | du  |
- | ga  | ge  | go  | gu  |
- | ya  | ye  | yo  | yu  |
- | ma  | me  | mo  | mu  |
- | na  | ne  | no  | nu  |
- | pa  | pe  | po  | pu  |
- | wa  | we  | wo  | wu  |
- | ta  | te  | to  | tu  |
- | za  | ze  | zo  | zu  |
+| a   | e   | o   | u   |
+| --- | --- | --- | --- |
+| a   | e   | o   | u   |
+| da  | de  | do  | du  |
+| ga  | ge  | go  | gu  |
+| ya  | ye  | yo  | yu  |
+| ma  | me  | mo  | mu  |
+| na  | ne  | no  | nu  |
+| pa  | pe  | po  | pu  |
+| wa  | we  | wo  | wu  |
+| ta  | te  | to  | tu  |
+| za  | ze  | zo  | zu  |
 
 ## Practice
 
